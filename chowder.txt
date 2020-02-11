@@ -5,5 +5,4 @@ Robot's recipe for chowder
 2 stalks of celery, diced
 6 potatoes, diced
 18 metal screws
-(Robot loves metal screws, but realizes that metal screws are an acquired taste
-
+(Robot loves metal screws, but realizes that metal screws are an acquired taste)
